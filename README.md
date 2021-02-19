@@ -1,2 +1,2 @@
-# generatore_frasi
-Generatore Frasi Commedie Italiane
+#Quote generator
+Quote generator
